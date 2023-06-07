@@ -5,7 +5,7 @@
 <!--  tecnologias  -->
 
 <div align="center">
-  <h3>•|🌐 Atualmente estudando as seguintes tecnologias 🌐|•</h3> 
+  <h3>Atualmente estudando as seguintes tecnologias</h3> 
   <img align="center" alt="lulupepino-HTML" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="lulupepino-CSS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="lulupepino" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
